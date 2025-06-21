@@ -51,8 +51,11 @@
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4" alt="rust" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
     </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
+    </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
     </a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer">
         <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
